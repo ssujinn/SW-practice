@@ -1,0 +1,1 @@
+kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;dogleg.o;dpmpar.o;enorm.o;fdjac1.o;hybrd.o;hybrd1.o;hybrj.o;hybrj1.o;qform.o;qrfac.o;r1mpyq.o;r1updt.o;rpoly.o;gespp.o;solve.o;%(AdditionalDependencies)

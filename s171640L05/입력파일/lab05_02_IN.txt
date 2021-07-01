@@ -1,0 +1,33 @@
+4
+
+30000 100 1.0
+1 50 1.0e-5 1.0e-5 1
+02_IN_exponential.txt
+02_pdf.txt
+02_cdf.txt
+02_output_bi.txt
+02_histogram_bi.txt
+
+30000 100 1.0
+2 50 1.0e-5 1.0e-5 1
+02_IN_exponential.txt
+02_pdf.txt
+02_cdf.txt
+02_output_nr.txt
+02_histogram_nr.txt
+
+30000 100 1.0
+3 50 1.0e-5 1.0e-5 1
+02_IN_exponential.txt
+02_pdf.txt
+02_cdf.txt
+02_output_se.txt
+02_histogram_se.txt
+
+30000 100 1.0
+4 50 1.0e-5 1.0e-5 1
+02_IN_exponential.txt
+02_pdf.txt
+02_cdf.txt
+02_output_bn.txt
+02_histogram_bn.txt

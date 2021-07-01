@@ -1,0 +1,34 @@
+4
+
+30000 100 1.0
+1 50 1.0e-5 1.0e-5 1
+03_IN_gaussian.txt
+03_pdf.txt
+03_cdf.txt
+03_output_bi.txt
+03_histogram_bi.txt
+
+30000 100 1.0
+2 50 1.0e-5 1.0e-5 1
+03_IN_gaussian.txt
+03_pdf.txt
+03_cdf.txt
+03_output_nr.txt
+03_histogram_nr.txt
+
+30000 100 1.0
+3 50 1.0e-5 1.0e-5 1
+03_IN_gaussian.txt
+03_pdf.txt
+03_cdf.txt
+03_output_se.txt
+03_histogram_se.txt
+
+30000 100 1.0
+4 50 1.0e-5 1.0e-5 1
+03_IN_gaussian.txt
+03_pdf.txt
+03_cdf.txt
+03_output_bn.txt
+03_histogram_bn.txt
+
